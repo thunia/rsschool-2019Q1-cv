@@ -25,3 +25,8 @@ Basic knowledge of PHP, MySql, JSON.
 + **06.2009 – 12.2012, Information Technologies Center** -- developer  
 + **01.2013 – 11.2014, StartUp Labs** -- HTML developer
 + **01.2015 – present,  Yurkevich A.S.** -- HTML developer
+
+## Education
+
+**Belarussian State University**,2005 - 2010  
+Applied Mathematics and Computer Science
